@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(239, 230, 198);
+    background-image: url("cats.jpeg")
+  }
+  
+  h1 {
+    color: white;
+    font-family: verdana;
+    text-align: center;
+  }
+  
+  p {
+    font-family: georgia;
+    font-size: 20px;
+  }
